@@ -18,7 +18,6 @@ function App() {
 
     return (
         <div className="App">
-            <h1 className="text-center mt-5">회원가입 페이지</h1>
 
             {/* 회원가입 버튼 */}
             <div className="text-center mt-4">
